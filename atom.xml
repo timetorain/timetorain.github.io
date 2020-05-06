@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://timetorain.github.io</id>
     <title>timetorain</title>
-    <updated>2020-05-06T02:07:15.817Z</updated>
+    <updated>2020-05-06T02:08:35.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://timetorain.github.io"/>
     <link rel="self" href="https://timetorain.github.io/atom.xml"/>
@@ -50,8 +50,8 @@ ID：Server Bugs 1<br>
 <p>Server partition</p>
 <p>There are rules in the lobby - when you come to the lobby, everyone will arrive at the transfer station. When you press the button, your birth point will be set in the hall. The game mode of ordinary players is always adventure mode. When you enter the hall, ordinary players will always have the effect of weakness and saturation. TNT and TNT minecart are prohibited. A barrier was added to the statue.</p>
 <p>There are rules in the survival zone - ordinary players within 100 squares of the birth point will be in adventure mode, and will be updated to survival mode after 100 squares. Coolie fear and falling objects within 35 squares of the birth point will be removed. Ordinary players within 100 squares of the birth point will have weak effect. Players within 75 squares of the birth point will have saturation effect. TNT and TNT minecart are prohibited. A barrier was added to the statue.</p>
-<p>There are rules at the nether - You can't fly too high.</p>
-<p>There are  rules at the end - You can't fly too high.</p>
+<p>There are rules at the nether - You can't fly too high.(256)</p>
+<p>There are  rules at the end - You can't fly too high.(256)</p>
 ]]></content>
     </entry>
 </feed>
